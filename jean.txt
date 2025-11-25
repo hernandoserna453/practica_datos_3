@@ -1,0 +1,3 @@
+nombre=Jean Pierre
+direccion=AK 68
+tele=3213435853
